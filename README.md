@@ -1,4 +1,4 @@
-.........zzzzzzzzzzzz............
+.........zzzzzzzzzzzz............00
 
 def main():
     print("سلام دنیا! 👋")
